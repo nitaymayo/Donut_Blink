@@ -1,4 +1,4 @@
- # Dount Blink
+# Dount Blink
 
 Donut Blink is an AI-powered application designed to help users monitor
 their blinking behavior while using their computer. The app uses the
@@ -9,7 +9,7 @@ around an open eye. The app is built using Python, TensorFlow, and Dlib
 library, making it a powerful tool for anyone interested in developing
 computer vision applications.
 
-To quikly use the app on your computer open the <a href="Donut_Blink_Short_Version.ipynb">short version</a> as colab notebook and run it
+To quikly use the app on your computer open the <a href="Donut_Blink_Quick_Version.ipynb">short version</a> as colab notebook and run it
 
 Video demonstration <a href="https://nitaymayo.github.io/Donut_Blink.html">here</a>
 
