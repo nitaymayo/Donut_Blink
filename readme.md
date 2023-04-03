@@ -9,6 +9,8 @@ around an open eye. The app is built using Python, TensorFlow, and Dlib
 library, making it a powerful tool for anyone interested in developing
 computer vision applications.
 
+To quikly use the app on your computer open the <a href="Donut_Blink_Short_Version.ipynb">short version</a> as colab notebook and run it
+
 Video demonstration <a href="">here</a>
 
 The AI model used in Donut Blink is based on the EfficientNetB0
